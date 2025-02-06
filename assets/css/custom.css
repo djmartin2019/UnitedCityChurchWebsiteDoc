@@ -1,0 +1,15 @@
+/* Change the header background color to black */
+.md-header {
+    background-color: #000000; /* Black */
+}
+
+/* Adjust the text and logo color to ensure good contrast */
+.md-header__title {
+    color: #F2F2F2; /* Snow White from your brand palette */
+}
+
+/* Optional: Adjust hover states */
+.md-header__title:hover {
+    color: grey; /* Yellow highlight */
+}
+
